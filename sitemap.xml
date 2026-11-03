@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Template: keep only pages that exist; update lastmod when a page changes -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://mcconfess.com/</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://mcconfess.com/about</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://mcconfess.com/music</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://mcconfess.com/booking</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://mcconfess.com/media</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://mcconfess.com/contact</loc><lastmod>2026-11-03</lastmod></url>
+</urlset>
